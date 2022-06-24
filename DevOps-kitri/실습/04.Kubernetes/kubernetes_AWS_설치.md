@@ -11,7 +11,7 @@ EKS 공식문서 확인
 1. kubectl 설치 
    
    a. kubectl 최신버전 다운로드
-   b. kubectl 실행 권한 부여   
+   b. kubectl 실행 권한 부
    c. /usr/local/bin 로 이동   
    d. kubectl 설치 확인    
 
